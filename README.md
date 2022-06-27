@@ -1,0 +1,2 @@
+# myProgressBar
+QT customized QProgressBar
